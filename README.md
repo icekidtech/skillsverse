@@ -17,8 +17,8 @@ This project is an AI-powered Web3 job and skill matching platform. It uses SUI 
 
     bash
     copy
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+    https://github.com/icekidtech/skillsverse.git
+    cd skillsverse
 Install Dependencies:
 Navigate to the backend directory and install the required dependencies:
 
